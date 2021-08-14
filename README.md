@@ -12,6 +12,7 @@ Features:
 - User authorization
 
 Doesn't sound like much, but it's an easy 100 hours in. I've learned a lot and enjoyed it immensely. Planning on using it as a template for my next app.
+You can see the source code [here](https://github.com/mayanhavoc/yelp_camp) and the live version [here](www.micochango.com) 
 
 ---
 
