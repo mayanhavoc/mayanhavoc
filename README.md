@@ -1,6 +1,21 @@
 # Roberto Mayen-Hess | Full stack software engineer 
 Software developer with previous experience in project management. Currently pursuing an MBA. 
 
+## What I'm currently working on: 
+
+YelpCamp is Colt Steele's 2021 Web Developer Bootcamp's massive final project. 
+It's a complete CRUD app built with HTML, Boostrap on the front-end and NodeJS and Mongo on the back-end.
+
+Features: 
+- Multiple image upload
+- User authentication
+- User authorization
+
+Doesn't sound like much, but it's an easy 100 hours in. I've learned a lot and enjoyed it immensely. Planning on using it as a template for my next app.
+
+---
+
+
 ## What I'm working on next: 
 ### CRUD app: 
 **Business problem**: 
@@ -35,13 +50,7 @@ Backend:
 - Export? 
 ---
 
-## What I'm currently working on: 
 
-- Dynamic website built with React and Strapi
-- My website built on Gatsby
-- Digital marketing dashboard
-
----
 
 ## What I know
 
