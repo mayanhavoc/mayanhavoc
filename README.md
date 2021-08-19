@@ -3,7 +3,7 @@ Software developer with previous experience in project management. Currently pur
 
 ## What I'm currently working on: 
 
-YelpCamp is Colt Steele's 2021 Web Developer Bootcamp's massive final project. 
+Discover | Guatemala is based on Colt Steele's 2021 Web Developer Bootcamp's massive final project. 
 It's a complete CRUD app built with HTML, Boostrap on the front-end and NodeJS and Mongo on the back-end.
 
 Features: 
