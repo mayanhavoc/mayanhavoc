@@ -3,16 +3,19 @@ Software developer with previous experience in project management. Currently pur
 
 ## What I'm currently working on: 
 
-Discover | Guatemala is based on Colt Steele's 2021 Web Developer Bootcamp's massive final project. 
-It's a complete CRUD app built with HTML, Boostrap on the front-end and NodeJS and Mongo on the back-end.
+Discover | Guatemala 
+https://discoverguatemala.herokuapp.com/. 
+Built on the MERN stack, it’s a crowdsourced tourism guide to discover cool lodging options around the world. 
 
 Features: 
 - Multiple image upload
 - User authentication
 - User authorization
+- User registration and login
+- Sessions
 
-Doesn't sound like much, but it's an easy 100 hours in. I've learned a lot and enjoyed it immensely. Planning on using it as a template for my next app.
-You can see the source code [here](https://github.com/mayanhavoc/yelp_camp) and the live version [here](www.micochango.com) 
+I've learned a lot and enjoyed building this project immensely. 
+You can see the source code [here](https://github.com/mayanhavoc/yelp_camp) and the live version [here](https://discoverguatemala.herokuapp.com/) 
 
 ---
 
