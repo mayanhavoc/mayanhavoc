@@ -1,7 +1,20 @@
 # Roberto Mayen-Hess | Full stack software engineer 
-Software developer with previous experience in project management. Currently pursuing an MBA. 
+Full stack software developer | MongoDb ExpressJs ReactJs NodeJs   
 
-## What I'm currently working on: 
+## What I know
+### Languages, libraries, tools, frameworks
+- Javascript
+- HTML
+- CSS
+- NodeJS
+- Express JS
+- MongoDB
+- React
+- Bootstrap
+- Scss
+- Git
+
+## Full stack app: 
 
 Discover | Guatemala 
 https://discoverguatemala.herokuapp.com/. 
@@ -54,21 +67,6 @@ Backend:
 - Export? 
 ---
 
-
-
-## What I know
-
-### Languages, libraries, tools and frameworks
-- Javascript
-- HTML
-- CSS
-- NodeJS
-- Express JS
-- MongoDB
-- React
-- Bootstrap
-- Scss
-- Git
 
 - ⚡ Fun fact: I'm learning Haskell and participating in the Plutus Pioneer program to be able to develop in the Cardano blockchain protocol. 
 
