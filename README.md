@@ -1,23 +1,30 @@
+---
+title: mayanhavoc
+date: '2021-29-12'
+spoiler: Code Styled Readme Template
+categories: ['code-styled', 'all-profile']
+githubUsername: 'mayan_havoc'
+---
+
 <img src="./intro_card.png"/>
 
-<br/><br/>
+[![Twitter: mayanHavoc](https://img.shields.io/twitter/follow/mayanHavoc?style=social)](https://twitter.com/mayanHavoc)
+[![Linkedin: Roberto Mayen Hess](https://img.shields.io/badge/-roberto_mayen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-mayen-hess/)](https://www.linkedin.com/in/roberto-mayen-hess/)
+[![GitHub mayanhavoc](https://img.shields.io/github/followers/mayanhavoc?label=follow&style=social)](https://github.com/mayanhavoc)
 
-## Need something done? 🧑‍💻
-
-📬 [Contact me](mailto:robertomh@protonmail.com)
-
-👔 [LinkedIn](https://www.linkedin.com/in/roberto-mayen-hess/)
-
-<br/><br/>
+## 📬 [Contact me](mailto:robertomh@protonmail.com)
 
 ## 🛠 Tools
 
-<img src="./tools_card.png"/>
+|          |            |            |
+| -------- | ---------- | ---------- |
+| React    | Next Js    | Javascript |
+| HTML     | Node Js    | Markdown   |
+| CSS      | Express Js | Bootstrap  |
+| Mongo DB | ejs        | Gatsby     |
 
-<br/><br/>
+## 🖊 [Blog](https://dev.to/@mayanhavoc)
 
-## 💡 Let's connect
+## 📊 Stats
 
-[Blog](https://dev.to/@mayanhavoc)
-
-[Twitter](https://twitter.com/@mayanhavoc)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayanhavoc&show_icons=true&theme=merko)
