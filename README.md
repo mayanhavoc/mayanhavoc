@@ -1,11 +1,3 @@
----
-title: mayanhavoc
-date: '2021-29-12'
-spoiler: Code Styled Readme Template
-categories: ['code-styled', 'all-profile']
-githubUsername: 'mayan_havoc'
----
-
 <img src="./intro_card.png"/>
 
 [![Twitter: mayanHavoc](https://img.shields.io/twitter/follow/mayanHavoc?style=social)](https://twitter.com/mayanHavoc)
