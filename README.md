@@ -1,32 +1,23 @@
-<h1 style="color: blue"> Roberto Mayen-Hess </h1> 
-Full stack software developer | MongoDb ExpressJs ReactJs NodeJs   
+<img src="./intro_card.png"/>
 
-### Languages, libraries, tools, frameworks
-- Javascript
-- HTML
-- CSS
-- NodeJS
-- Express JS
-- MongoDB
-- React
-- Bootstrap
-- Scss
-- Git
+<br/><br/>
 
+## Need something done? 🧑‍💻
 
-- ⚡ Fun fact: I'm learning Haskell and participating in the Plutus Pioneer program to be able to develop in the Cardano blockchain protocol. 
+📬 [Contact me](mailto:robertomh@protonmail.com)
 
-- All of my projects are available at [https://github.com/mayanhavoc](https://github.com/mayanhavoc)
+👔 [LinkedIn](https://www.linkedin.com/in/roberto-mayen-hess/)
 
-- How to reach me **mayanhavoc@gmail.com**
+<br/><br/>
 
-- [https://www.linkedin.com/in/roberto-mayen-hess/](https://www.linkedin.com/in/roberto-mayen-hess/)
+## 🛠 Tools
 
+<img src="./tools_card.png"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@mayanhavoc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@mayanhavoc" height="30" width="40" /></a>
-<a href="https://twitter.com/@mayanhavoc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@mayanhavoc" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
+## 💡 Let's connect
 
+[Blog](https://dev.to/@mayanhavoc)
+
+[Twitter](https://twitter.com/@mayanhavoc)
