@@ -1,0 +1,250 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+* ul {
+    list-style: none;
+}
+
+* a {
+    text-decoration: none;
+    color: #000;
+}
+
+* span {
+    display: block;
+}
+
+i {
+    font-size: 2em;
+}
+
+body {
+    margin: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    vertical-align: end;
+    padding: 1em;
+    border-bottom: 1px solid #000;
+}
+
+.header .title {
+    width: 100%;
+    text-align: start;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.header .contact-info {
+    width: 100%;
+    text-align: end;
+}
+
+.header .icons {
+    display: flex;
+    justify-content: end;
+    margin: 0.5em 0; 
+    font-size: 1.25em;
+}
+
+.header .icons li {
+    margin: 0 0 0 1em;
+}
+
+.header .icons li:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.about {
+    display: flex;
+    margin: 1em 0; 
+    background-color: #eee;   
+    box-shadow: 1px #000;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.about .title {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+    font-weight: 700;
+}
+
+.about .about-text {
+    margin: auto 1.25em;
+    font-size: 1.25em;
+    text-align: justify;
+}
+
+.about img {
+    display: block;
+    object-fit: cover;
+    object-position: bottom;
+    border-radius: 0 10px 10px 0;
+}
+
+.skills-and-ed {
+    display: flex;
+    flex-direction: column;
+    margin: 1em 0; 
+    padding: 1em;
+    font-size: 1.25em;
+}
+
+.skills-and-ed .skills-and-ed-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5em;
+}
+
+.skills-and-ed-header .skills-title, .skills-and-ed-header .ed-title {
+    font-weight: 700;
+}
+
+.skills-and-ed-header .skills-title {
+    width: 75%;
+}
+
+.skills-and-ed-header .ed-title {
+    width: 25%;
+}
+
+.skills-and-ed .content {
+    display: flex;
+}
+
+.skills-and-ed .skills {
+    width: 75%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0.5em;
+}
+
+.skills-and-ed .skills h3 {
+    font-size: 1.25em;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+.skills-and-ed .ed span {
+    margin: 0.25em 0;
+    color: #999;
+}
+
+.skills-and-ed .skills li {
+    padding: 0.25em 0;
+}
+
+.skills-and-ed .ed {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.skills-and-ed .mba h3, .university h3 {
+    font-size: 1.25em;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+.experience-other {
+    display: flex;
+    flex-direction: column;
+    margin: 1em 0; 
+    padding: 1em;
+    background-color: #eee;   
+}
+
+
+
+.experience-other .experience-other-header {
+    display: flex;
+    justify-content: space-between; 
+    font-size: 1.25em;
+    width: 100%;
+}
+
+.experience-title, .other-title {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.experience-title {
+    width: 50%;
+}
+
+.other-title {
+    width: 50%;
+}
+
+.experience-other-content {
+    width: 90%;
+}
+
+.experience-other h3 {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin: 1em 0 0.125em 0;
+}
+
+.experience-other span, .experience-other ul {
+    font-size: 1.25em;
+} 
+
+.experience-other span {
+    margin: 0.25em 0;
+    color: #999;
+}
+
+.experience-other ul {
+    padding: 0.5em 0;
+}
