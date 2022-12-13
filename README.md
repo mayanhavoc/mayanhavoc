@@ -5,19 +5,7 @@
 
 ## 📬 [Click here](mailto:robertomh@protonmail.com) to get in touch
 
-<img class="services" src="./Github-how-can-I-help.png" />
+<img class="services" src="./Github-how-can-I-help.png" width="150px"/>
 
-<img class="interests" src="./Github-interests.png" />
+<img class="interests" src="./Github-interests.png" width="200px"/>
 
-<style>
-img:hover {
-    transform: translateX(1%) translateY(10%);
-}
-
-
-@media screen and (min-width: 800px) {
-    .justify-lg {
-        justify-content: space-evenly;
-    }
-}
-</style>
