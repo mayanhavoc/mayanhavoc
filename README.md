@@ -5,7 +5,7 @@
 
 ## 📬 [Click here](mailto:robertomh@protonmail.com) to get in touch
 
-<img class="services" src="./Github-how-can-I-help.png" width="150px"/>
+<img class="services" src="./Github-how-can-I-help.png" />
 
-<img class="interests" src="./Github-interests.png" width="200px"/>
+<img class="interests" src="./Github-interests.png" />
 
