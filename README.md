@@ -19,3 +19,10 @@
 ## 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayanhavoc&show_icons=true&theme=merko)
+
+
+<style>
+    img {
+        border-radius: 15;
+    }
+</style>
