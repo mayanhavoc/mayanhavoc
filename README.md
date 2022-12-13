@@ -1,4 +1,4 @@
-<img src="./Github-cover-peach-bg-drop-shadow.png"/>
+<img class="hidden" src="./Github-cover-peach-bg-drop-shadow.png"/>
 
 [![Linkedin: Roberto Mayen Hess](https://img.shields.io/badge/-roberto_mayen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-mayen-hess/)](https://www.linkedin.com/in/roberto-mayen-hess/)
 [![GitHub mayanhavoc](https://img.shields.io/github/followers/mayanhavoc?label=follow&style=social)](https://github.com/mayanhavoc)
@@ -7,6 +7,17 @@
 
 <img class="services" src="./Github-how-can-I-help.png" />
 
+<img class="interests" src="./Github-interests.png" />
+
+<style>
+img:hover {
+    transform: translateX(1%) translateY(10%);
+}
 
 
-
+@media screen and (min-width: 800px) {
+    .justify-lg {
+        justify-content: space-evenly;
+    }
+}
+</style>
