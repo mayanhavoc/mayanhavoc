@@ -1,2 +1,4 @@
-Roberto is a versatile and strategic thinker with a strong background in project management, client relations, and system design within the tech and blockchain sectors. His expertise lies in bridging the gap between technical teams and client needs, ensuring projects not only meet but exceed expectations. With a passion for innovation and community building, Roberto excels in environments that challenge the status quo and demand creative solutions. His work with Andamio showcases his ability to manage complex projects, engage with diverse stakeholders, and contribute to pioneering efforts in digital transformation and ecosystem development.
+Andamio co-founder
+
+andamio.io
 
